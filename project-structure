@@ -1,0 +1,18 @@
+cosmocloud-deploy/
+│
+├── README.md
+│
+└── cosmocloud-deploy/
+    ├── Chart.yaml
+    ├── values.yaml
+    │
+    ├── templates/
+    │   ├── backend-deployment.yaml
+    │   ├── backend-service.yaml
+    │   ├── frontend-deployment.yaml
+    │   ├── frontend-service.yaml
+    │   ├── redis-deployment.yaml
+    │   └── redis-service.yaml
+    │
+    └── charts/
+        # (Optional empty directory for potential chart dependencies)
