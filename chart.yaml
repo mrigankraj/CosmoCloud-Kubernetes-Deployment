@@ -1,5 +1,5 @@
 apiVersion: v2
 name: cosmocloud-deploy
-description: Helm chart for microservices deployment
+description: Microservices Deployment Helm Chart
 version: 0.1.0
 appVersion: "1.0.0"
